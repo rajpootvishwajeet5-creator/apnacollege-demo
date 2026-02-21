@@ -1,5 +1,5 @@
 # apnacollege-demo
 this is my first repository
 <br>
-Author - Vishwajeet Rajpoot
+Author - Vishwajeet (apna college)
 
